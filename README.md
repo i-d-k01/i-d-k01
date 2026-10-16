@@ -31,7 +31,7 @@ I am a passionate Computer Science Engineering student (8.81 GPA) focused on **A
 ### 📫 Let's Connect!
 If you're looking for a dedicated, fast-learning developer for an internship or role, let's talk!
 
-- 💼 **LinkedIn:** [linkedin.com/in/amaan-moin-khan-007877311](https://linkedin.com/in/amaan-moin-khan)
+- 💼 **LinkedIn:** [linkedin.com/in/amaan-moin-khan](https://linkedin.com/in/amaan-moin-khan)
 <!-- - 💻 **LeetCode:** [leetcode.com/u/dark_male](https://leetcode.com/u/dark_male) -->
 - 📧 **Email:** [ak9516774@gmail.com](mailto:ak9516774@gmail.com)
 - 📄 **Resume:** [Download My Resume (PDF)](https://github.com/user-attachments/files/33559873/my_cv.pdf)
