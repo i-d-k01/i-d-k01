@@ -11,7 +11,7 @@ I am a passionate Computer Science Engineering student (8.81 GPA) focused on **A
 - 📖 **Currently Learning:** Deep Learning 🤖 and Big Data 🐘
 - 🛠️ **Recent Work:** Built a Twitter/X Sentiment Analysis Engine (86% accuracy on 50k tweets) and a Kaggle House Price Predictor (Top 30%).
 - 🤝 **Community:** Core Member at **Google Developer Group (GDG) On Campus**, IIIT Surat.
-- 🏆 **Problem Solving:** 250+ problems solved on [LeetCode](https://leetcode.com/u/dark_male) | Pupil on Codeforces.
+- 🏆 **Problem Solving:** 250+ problems solved on <--![LeetCode](https://leetcode.com/u/dark_male)--> | Pupil on Codeforces.
 
 ---
 
