@@ -21,7 +21,7 @@ I am a passionate Computer Science Engineering student (8.81 GPA) focused on **A
   `Python` | `Matlab` | `C++17` | `C` | `JavaScript` | `HTML5` | `CSS3`
 
 * **Data Science & ML:**
-  `Scikit-learn` | `NumPy` | `Pandas` | `Matplotlib` | `NLTK` | `Deep Learning`
+  `Scikit-learn` | `NumPy` | `Pandas` | `Matplotlib` | `seaborn` | `NLTK` | `Deep Learning`
 
 * **Backend, Databases & Tools:**
   `SQL` | `PostgreSQL` | `Flask` | `REST APIs` | `Git & GitHub` | `Linux CLI`
